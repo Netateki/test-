@@ -44,6 +44,9 @@ def line (event) :
     elif b==2 : 
         c.delete('all')
         b=0
+        
+        
+#shddjh
 
         
 
